@@ -41,6 +41,9 @@ The raw dataset was cleaned and enriched with the following derived columns:
 | `Age Group` | Under 30 \| 30–40 \| 41–50 \| 50+ |
 
 ---
+## Dashboard Screenshots
+# Workforce Overview Dashboard
+This dashboard presents a structured view of overall workfoce composition, highlighting employee distribution across departments, job roles, and demographic segments. It supports workforce planning by identifying concentration risks, staffing imbalances, and organizational structure patterns.
 
 ## Key Performance Indicators (KPIs)
 
